@@ -7,7 +7,10 @@ Welcome to my GitHub profile! As a passionate **BS Computer Science** student, I
   New Era University
   2024-present
 
-## ✨Skills
+## 🗞️ Certifications
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a9f538d4c0f04c0aa08be9f11b1d1b65)
+
+## ✨Skill Sets
 - **Programming:** Java
 - **Databases:** SQL
 - **Tools:** Eclipse, HTML
