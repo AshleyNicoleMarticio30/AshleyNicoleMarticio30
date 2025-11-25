@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ashley Nicole Marticio! 👋
 
-<!--
-**AshleyNicoleMarticio30/AshleyNicoleMarticio30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! As a passionate **BS Computer Science** student, I'm excited about technology, problem-solving, and growing my skills. I love diving into programming, databases, and tools to create effective solutions.
 
-Here are some ideas to get you started:
+## 📚 Education 
+- **BS Computer Science**
+  New Era University
+  2024-present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨Skills
+- **Programming:** Java
+- **Databases:** SQL
+- **Tools:** Eclipse, HTML
+
+## 📫 How to reach me?
+- **Email:** nicsmolina03@gmail.com
+
